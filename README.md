@@ -1,6 +1,6 @@
 # Hax_MultiTool
 Source Code for Hax: MultiTool<br>
-Language: Batch (Windows .bat)<br>
+Language: Batch (Windows .bat), Python<br>
 OS: Windows 10, 11<br>
 
 
