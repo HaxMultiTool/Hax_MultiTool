@@ -1,7 +1,7 @@
 # Hax_MultiTool
-Source Code for Hax: MultiTool
-Language: Batch (Windows .bat)
-OS: Windows 10
+Source Code for Hax: MultiTool<br>
+Language: Batch (Windows .bat)<br>
+OS: Windows 10<br>
 
 
 
