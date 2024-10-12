@@ -1,0 +1,27 @@
+clr = imposta il colore del terminale
+  default = normale
+
+gm = imposta la modalità della GUI
+  cui = click gui user interface
+  cli = command line interface
+  oui = old user interface
+
+wm = imposta white mode 
+  0 = black mode
+  1 = white mode
+
+su = imposta se si avvia in superuser o no
+  1 = superuser
+  0 = standard
+
+db = imposta la modalità di debug
+  1 = debug ON
+  0 = debug OFF
+
+S1 = imposta effetti sonori
+  1 = on
+  0 = off
+
+S2 = imposta musica
+  1 = on
+  0 = off

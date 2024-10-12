@@ -1,0 +1,5 @@
+all tooltype
+help
+visual settings
+settings save
+clear
